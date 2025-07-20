@@ -37,6 +37,7 @@ The workflow is completely local—only the Google Gemini API is contacted for l
 ---
 
 ## 🎬 Demo
+<img width="1920" height="958" alt="Screenshot from 2025-07-20 11-52-43" src="https://github.com/user-attachments/assets/0f3d9d54-f3fa-4071-b245-cd3dc2e54366" />
 
 <img width="1920" height="601" alt="Screenshot from 2025-07-20 11-54-36" src="https://github.com/user-attachments/assets/dc02b16f-ef69-4e84-ae13-247b5a29b15f" />
 
