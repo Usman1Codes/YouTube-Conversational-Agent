@@ -1,0 +1,7 @@
+google-generativeai
+youtube-transcript-api
+pytubefix
+python-dotenv
+yt-dlp
+openai-whisper
+requests 
