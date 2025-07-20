@@ -38,9 +38,7 @@ The workflow is completely local—only the Google Gemini API is contacted for l
 
 ## 🎬 Demo
 
-*(Here you could add a GIF or a short video demonstrating the tool in action. This is a great way to show developers what your tool can do!)*
-
-![Demo GIF Placeholder](https://placehold.co/600x400?text=Tool+Demo+GIF)
+<img width="1920" height="601" alt="Screenshot from 2025-07-20 11-54-36" src="https://github.com/user-attachments/assets/dc02b16f-ef69-4e84-ae13-247b5a29b15f" />
 
 ---
 
